@@ -34,7 +34,16 @@ Through **data preprocessing, feature engineering, and predictive modeling**, th
    git clone https://github.com/ann1423/EMPLOYEE-BURNOUT-ANALYSIS.git
    ```  
 2. Open the Jupyter Notebook: `ProjectEBA.ipynb`  
-3. Run the code cells to explore data analysis & model implementation.  
+3. Run the code cells to explore data analysis & model implementation.
+
+
+🗓️ Internship Details
+Program: AICTE Edunet Foundation IBM SkillsBuild
+Domain: Artificial Intelligence Duration: Nov 14, 2024 Dec 31, 2024 
+
+👩🏻‍💼About Me:
+Ananya Gupta - BTech (AI-DS)
+Linkedin: https://www.linkedin.com/in/ananya-gupta-4a5a81332
 
 📢 Contributing  
 Feedback and improvements are welcome! Feel free to raise issues or suggest enhancements.  
