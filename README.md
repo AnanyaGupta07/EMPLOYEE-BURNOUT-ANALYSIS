@@ -55,7 +55,7 @@ Domain: Artificial Intelligence Duration: Nov 14, 2024 Dec 31, 2024
 
 👩🏻‍💼About Me:
 Ananya Gupta - BTech (AI-DS)
-Linkedin: https://www.linkedin.com/in/ananya-gupta-4a5a81332
+Linkedin: https://www.linkedin.com/in/ananya-gupta-tech
 
 📢 Contributing  
 Feedback and improvements are welcome! Feel free to raise issues or suggest enhancements.  
