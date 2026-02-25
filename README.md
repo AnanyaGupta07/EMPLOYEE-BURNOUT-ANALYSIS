@@ -5,6 +5,14 @@ Employee burnout is a growing concern in modern workplaces. This project utilize
 
 Through **data preprocessing, feature engineering, and predictive modeling**, this project aims to identify employees at risk of burnout based on various work-related indicators.  
 
+📂 Project Structure
+EMPLOYEE-BURNOUT-ANALYSIS
+│── notebooks/
+│   └── ProjectEBA.ipynb
+│── src/
+│── requirements.txt
+│── README.md
+
 📊 Dataset  
 - The dataset contains key workplace attributes such as **work hours, stress levels, job satisfaction, and mental health indicators**.  
 - Data is cleaned and transformed for **ML model training**.  
@@ -28,14 +36,18 @@ Through **data preprocessing, feature engineering, and predictive modeling**, th
 ✔️ Built an ML model that predicts burnout risk with promising accuracy.  
 ✔️ Provided actionable strategies to enhance employee well-being.  
 
-📂 How to Use  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/ann1423/EMPLOYEE-BURNOUT-ANALYSIS.git
-   ```  
-2. Open the Jupyter Notebook: `ProjectEBA.ipynb`  
-3. Run the code cells to explore data analysis & model implementation.
+🎯 Results & Model Performance
+Linear Regression Model Results:
+- Accuracy: 92.6%
+- Data preprocessing: Missing value handling & One-Hot Encoding
+- Train/Test Split: 80/20
 
+The project demonstrates how machine learning techniques can be applied to predict employee burnout risk using structured HR data.
+
+📂 How to Run
+
+1. Clone this repository
+2. Install dependencies:
 
 🗓️ Internship Details
 Program: AICTE Edunet Foundation IBM SkillsBuild
